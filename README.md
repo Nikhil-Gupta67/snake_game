@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game--
 
 A simple browser-based Snake game implemented with HTML, CSS, and JavaScript.
 
