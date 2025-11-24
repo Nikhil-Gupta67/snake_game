@@ -2,7 +2,7 @@
 
 A simple browser-based Snake game implemented with HTML, CSS, and JavaScript.
 
-**Project structure
+**Project structure--
 
 - `index.html`: The game entry point and markup.
 - `index.js`: Game logic (snake movement, food, collision, scoring).
